@@ -1,0 +1,160 @@
+20
+msg3:
+32 51 0b a9 a7 b2 bb a9 b8 00 5d 43 a3 04 b5 71 4c c0 bb 0c 8a 34 88 4d d9 13 04 b8 ad 40 b6 2b 07 df 44 ba 6e 9d 8a 23 68 e5 1d 04 e0 e7 b2 07 b7 0b 9b 82 61 11 2b ac b6 c8 66 a2 32 df e2 57 52 7d c2 93 98 f5 f3 25 1a 0d 47 e5 03 c6 6e 93 5d e8 12 30 b5 9b 7a fb 5f 41 af a8 d6 61 cb
+
+msg10:
+46 6d 06 ec e9 98 b7 a2 fb 1d 46 4f ed 2c ed 76 41 dd aa 3c c3 1c 99 41 cf 11 0a bb f4 09 ed 39 59 80 05 b3 39 9c cf af b6 1d 03 15 fc a0 a3 14 be 13 8a 9f 32 50 3b ed ac 80 67 f0 3a db f3 57 5c 3b 8e dc 9b a7 f5 37 53 05 41 ab 0f 9f 3c d0 4f f5 0d 66 f1 d5 59 ba 52 0e 89 a2 cb 2a 83
+
+" the " = 20 74 68 65 20
+
+xor 3 e 10:
+t<\rEN*\x0c\x0bC\x1d\x1b\x0cN(X\x07\r\x1d\x110I(\x11\x0c\x16\x02\x0e\x03YI[\x12^_A\tW\x01EÞø\x1e\x11\x1cG\x11\x13\t\x18\x11\x1dSA\x10A\x1aH\x01R\x08\x04\x11\x00\x0eFLO\x03R\x06\x12I\x08\x06N\x0cYRC\x12\x1d\x1fVDN#A\rO&\n\x1dKH
+
+74 3c 0d 45 4e 2a 0c 0b 43 1d 1b 0c 4e 28 58 07 0d 1d 11 30 49 28 11 0c 16 02 0e 03 59 49 5b 12 5e 5f 41 09 57 01 45 8c de f8 1e 11 1c 47 11 13 09 18 11 1d 53 41 10 41 1a 48 01 52 08 04 11 00 0e 46 4c 4f 03 52 06 12 49 08 06 4e 0c 59 52 43 12 1d 1f 56 44 4e 23 41 0d 4f 26 0a 1d 4b 48
+
+' ' ^ ' ' = 00
+'A' ^ 'a' = ' '
+
+' the ' com 743c0d454e = 'THe n' <== mas acho que nao
+' the ' com 3c0d454e2a = '\x1cy-+\n'
+' the ' com 0d454e2a0c = '-1&O,'
+' the ' com 454e2a0c0b = 'e:Bi+'
+' the ' com 4e2a0c0b43 = 'n^dnc'
+' the ' com 2a0c0b431d = '\nxc&='
+' the ' com 0c0b431d1b = ',\x7f+x;'
+' the ' com 0b431d1b0c = '+7u~,'
+' the ' com 431d1b0c4e = 'cisin' 	<==
+' the ' com 1d1b0c4e28 = '=od+\x08'
+' the ' com 1b0c4e2858 = ';x&Mx'
+' the ' com 0c4e285807 = ",:@='"
+' the ' com 4e2858070d = 'n\\0b-'
+' the ' com 2858070d1d = '\x08,oh='
+' the ' com 58070d1d11 = 'xsex1' <== talvez
+' the ' com 070d1d1130 = "'yut\x10"
+' the ' com 0d1d113049 = '-iyUi'
+' the ' com 1d11304928 = '=eX,\x08'
+' the ' com 1130492811 = '1D!M1'
+' the ' com 304928110c = '\x10=@t,'
+' the ' com 4928110c16 = 'i\\yi6'
+' the ' com 28110c1602 = '\x08eds"'
+' the ' com 110c16020e = '1x~g.'
+' the ' com 0c16020e03 = ',bjk#'
+' the ' com 16020e0359 = '6vffy'
+' the ' com 020e035949 = '"zk<i'
+' the ' com 0e0359495b = '.w1,{'
+' the ' com 0359495b12 = '#-!>2'
+' the ' com 59495b125e = 'y=3w~'
+' the ' com 495b125e5f = 'i/z;\x7f'
+' the ' com 5b125e5f41 = '{f6:a'
+' the ' com 125e5f4109 = '2*7$)'
+' the ' com 5e5f410957 = '~+)lw'
+' the ' com 5f41095701 = '\x7f5a2!'
+' the ' com 4109570145 = 'a}?de'
+' the ' com 09570145c2 = ')#i â' <== VAI AJUDAR MUITO!
+' the ' com 570145c28c = 'wu-§¬'
+' the ' com 0145c28cc3 = '!1ªéã'
+' the ' com 45c28cc39e = 'e¶ä¦¾'
+' the ' com c28cc39ec3 = 'âø«ûã'
+' the ' com 8cc39ec3b8 = '¬·ö¦'
+' the ' com c39ec3b81e = 'ãê«Ý>'
+' the ' com 9ec3b81e11 = '¾·Ð{1'
+' the ' com c3b81e111c = 'ãÌvt<'
+' the ' com b81e111c47 = 'jyyg'
+' the ' com 1e111c4711 = '>et"1'
+' the ' com 111c471113 = '1h/t3'
+' the ' com 1c47111309 = '<3yv)'
+' the ' com 4711130918 = 'ge{l8'
+' the ' com 1113091811 = '1ga}1'
+' the ' com 130918111d = '3}pt='
+' the ' com 0918111d53 = ')lyxs'
+' the ' com 18111d5341 = '8eu6a'
+' the ' com 111d534110 = '1i;$0'
+' the ' com 1d53411041 = "=')ua"
+' the ' com 534110411a = 's5x$:'
+' the ' com 4110411a48 = 'ad)\x7fh'
+' the ' com 10411a4801 = '05r-!'
+' the ' com 411a480152 = 'an dr' <== VAI AJUDAR MUITO!
+' the ' com 1a48015208 = ':<i7('
+' the ' com 4801520804 = 'hu:m$'
+' the ' com 0152080411 = '!&`a1'
+' the ' com 5208041100 = 'r|lt ' <== VAI AJUDAR MUITO!
+' the ' com 080411000e = '(pye.'
+' the ' com 0411000e46 = '$ehkf'
+' the ' com 11000e464c = '1tf#l'
+' the ' com 000e464c4f = ' z.)o'
+' the ' com 0e464c4f03 = '.2$*#'
+' the ' com 464c4f0352 = "f8'fr"
+' the ' com 4c4f035206 = 'l;k7&'
+' the ' com 4f03520612 = 'ow:c2'
+' the ' com 0352061249 = '#&nwi'
+' the ' com 5206124908 = 'rrz,('
+' the ' com 0612490806 = '&f!m&'
+' the ' com 124908064e = '2=`cn'
+' the ' com 4908064e0c = 'i|n+,'
+' the ' com 08064e0c59 = '(r&iy'
+' the ' com 064e0c5952 = '&:d<r'
+' the ' com 4e0c595243 = 'nx17c'
+' the ' com 0c59524312 = ',-:&2'
+' the ' com 595243121d = 'y&+w='
+' the ' com 5243121d1f = 'r7zx?'
+' the ' com 43121d1f56 = 'cfuzv'
+' the ' com 121d1f5644 = '2iw3d'
+' the ' com 1d1f56444e = '=k>!n'
+' the ' com 1f56444e23 = '?",+\x03'
+' the ' com 56444e2341 = 'v0&Fa'
+' the ' com 444e23410d = 'd:K$-'
+' the ' com 4e23410d4f = 'nW)ho'
+' the ' com 23410d4f26 = '\x035e*\x06'
+' the ' com 410d4f260a = "ay'C*"
+' the ' com 0d4f260a1d = '-;No='
+' the ' com 4f260a1d4b = 'oRbxk'
+' the ' com 260a1d4b48 = '\x06~u.h'
+
+
+codigo python:
+def strxor(a, b):
+    return "".join([chr(ord(x) ^ ord(y)) for (x, y) in zip(a, b)])
+    
+def my_range(start, end, step):
+    while start <= end:
+        yield start
+        start += step
+
+def dehex(a):
+    aux = ""
+    for x in my_range(0, len(a)-1, 2):
+        c = a[x] + a[x+1]
+        d = c.decode('hex')
+        aux = aux + d
+    
+    return aux
+    
+def enc(a):
+    return a.encode('hex')
+    
+def jay(a, b):
+    return strxor(dehex(a), dehex(b))
+    
+msg1 = '315c4eeaa8b5f8aaf9174145bf43e1784b8fa00dc71d885a804e5ee9fa40b16349c146fb778cdf2d3aff021dfff5b403b510d0d0455468aeb98622b137dae857553ccd8883a7bc37520e06e515d22c954eba5025b8cc57ee59418ce7dc6bc41556bdb36bbca3e8774301fbcaa3b83b220809560987815f65286764703de0f3d524400a19b159610b11ef3e'
+
+msg2 = '234c02ecbbfbafa3ed18510abd11fa724fcda2018a1a8342cf064bbde548b12b07df44ba7191d9606ef4081ffde5ad46a5069d9f7f543bedb9c861bf29c7e205132eda9382b0bc2c5c4b45f919cf3a9f1cb74151f6d551f4480c82b2cb24cc5b028aa76eb7b4ab24171ab3cdadb8356f'
+
+msg3 = '32510ba9a7b2bba9b8005d43a304b5714cc0bb0c8a34884dd91304b8ad40b62b07df44ba6e9d8a2368e51d04e0e7b207b70b9b8261112bacb6c866a232dfe257527dc29398f5f3251a0d47e503c66e935de81230b59b7afb5f41afa8d661cb'
+
+msg4 ='32510ba9aab2a8a4fd06414fb517b5605cc0aa0dc91a8908c2064ba8ad5ea06a029056f47a8ad3306ef5021eafe1ac01a81197847a5c68a1b78769a37bc8f4575432c198ccb4ef63590256e305cd3a9544ee4160ead45aef520489e7da7d835402bca670bda8eb775200b8dabbba246b130f040d8ec6447e2c767f3d30ed81ea2e4c1404e1315a1010e7229be6636aaa'
+
+msg5 ='3f561ba9adb4b6ebec54424ba317b564418fac0dd35f8c08d31a1fe9e24fe56808c213f17c81d9607cee021dafe1e001b21ade877a5e68bea88d61b93ac5ee0d562e8e9582f5ef375f0a4ae20ed86e935de81230b59b73fb4302cd95d770c65b40aaa065f2a5e33a5a0bb5dcaba43722130f042f8ec85b7c2070'
+
+msg6 ='32510bfbacfbb9befd54415da243e1695ecabd58c519cd4bd2061bbde24eb76a19d84aba34d8de287be84d07e7e9a30ee714979c7e1123a8bd9822a33ecaf512472e8e8f8db3f9635c1949e640c621854eba0d79eccf52ff111284b4cc61d11902aebc66f2b2e436434eacc0aba938220b084800c2ca4e693522643573b2c4ce35050b0cf774201f0fe52ac9f26d71b6cf61a711cc229f77ace7aa88a2f19983122b11be87a59c355d25f8e4'
+
+msg7 ='32510bfbacfbb9befd54415da243e1695ecabd58c519cd4bd90f1fa6ea5ba47b01c909ba7696cf606ef40c04afe1ac0aa8148dd066592ded9f8774b529c7ea125d298e8883f5e9305f4b44f915cb2bd05af51373fd9b4af511039fa2d96f83414aaaf261bda2e97b170fb5cce2a53e675c154c0d9681596934777e2275b381ce2e40582afe67650b13e72287ff2270abcf73bb028932836fbdecfecee0a3b894473c1bbeb6b4913a536ce4f9b13f1efff71ea313c8661dd9a4ce'
+
+msg8 ='315c4eeaa8b5f8bffd11155ea506b56041c6a00c8a08854dd21a4bbde54ce56801d943ba708b8a3574f40c00fff9e00fa1439fd0654327a3bfc860b92f89ee04132ecb9298f5fd2d5e4b45e40ecc3b9d59e9417df7c95bba410e9aa2ca24c5474da2f276baa3ac325918b2daada43d6712150441c2e04f6565517f317da9d3'
+
+msg9 ='271946f9bbb2aeadec111841a81abc300ecaa01bd8069d5cc91005e9fe4aad6e04d513e96d99de2569bc5e50eeeca709b50a8a987f4264edb6896fb537d0a716132ddc938fb0f836480e06ed0fcd6e9759f40462f9cf57f4564186a2c1778f1543efa270bda5e933421cbe88a4a52222190f471e9bd15f652b653b7071aec59a2705081ffe72651d08f822c9ed6d76e48b63ab15d0208573a7eef027'
+
+msg10 ='466d06ece998b7a2fb1d464fed2ced7641ddaa3cc31c9941cf110abbf409ed39598005b3399ccfafb61d0315fca0a314be138a9f32503bedac8067f03adbf3575c3b8edc9ba7f537530541ab0f9f3cd04ff50d66f1d559ba520e89a2cb2a83'
+
+msg11 = '32510ba9babebbbefd001547a810e67149caee11d945cd7fc81a05e9f85aac650e9052ba6a8cd8257bf14d13e6f0a803b54fde9e77472dbff89d71b57bddef121336cb85ccb8f3315f4b52e301d16e9f52f904'
+
+key = '66396e89c9dbd8cc9874352acd6395102eafce78aa7fed28a07f6bc98d29c50b69b0339a19f8aa401a9c6d708f80c066c763fef0123148cdd8e802d05ba98777335daefcecd59c433a6b268b60bf4ef03c9a611098bb3e9a3161edc7b804a33522cfd202d2c68c57376edba8c2ca50027c61246ce2a12b0c4502175010c0a1ba4625786d911100797d8a47e98b0200c4ab000000a900000000008a0082d10000320000000000000000050000911f3edfd73e8333e8463df984ee'
